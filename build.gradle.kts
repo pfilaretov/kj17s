@@ -8,6 +8,11 @@ plugins {
     kotlin("kapt") version "1.6.21"
 }
 
+// TODO - convert to multi-module project, e.g. model + service, to test that everything still builds fine
+// TODO - add coroutines
+// TODO - benchmark app with JDK 11 vs JDK 17
+// TODO - try spring boot 3
+
 group = "pro.filaretov.spring.kotlin"
 version = "1.0.0"
 java.sourceCompatibility = JavaVersion.VERSION_17
