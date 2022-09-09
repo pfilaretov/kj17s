@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: Kj17s
+
+kj17s:
+  dummy: Hello there!
