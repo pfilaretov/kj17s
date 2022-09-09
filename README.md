@@ -2,6 +2,11 @@
 
 Test Kotlin with java 17 and latest spring boot, built with gradle.
 
+## Kapt
+
+See [Building web applications with Spring Boot and Kotlin](https://spring.io/guides/tutorials/spring-boot-kotlin/)
+("Configuration properties" section) for some info on kapt configuration.
+
 ## Getting Started
 
 ### Reference Documentation
